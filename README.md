@@ -8,9 +8,9 @@
 > [name=朱庭宏]
 :::
 
-[開發工具](kai-fa-gong-ju.md)
+[開發工具](開發工具.md)
 
-[MarkDown語法](markdown-yu-fa.md)
+[MarkDown語法](MarkDown語法.md)
 
-[HTML基本語法](html-ji-ben-yu-fa.md)
+[HTML基本語法](HTML基本語法.md)
 
